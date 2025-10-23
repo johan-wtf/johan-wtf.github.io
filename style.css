@@ -28,8 +28,8 @@ main{
     background-color: blue;
     padding: 1rem;
     display: inline-block;
-    margin: 1 rem;
-    margin: 1 rem;
+    margin: 1rem;
+    margin: 1rem;
     border-radius: 5px;
     border: solid 1px rgb(240, 28, 28);
     transition: all 0.3s easeas-in-out;
@@ -43,8 +43,8 @@ li a:hover{
 }
 .nav ul{
     list-style: none;
-    display:flex
+    display:flex;
     flex-direction: column;
-    padding: 1 rem;
-    border-radius: 1 rem;
+    padding: 1rem;
+    border-radius: 1rem;
 }
